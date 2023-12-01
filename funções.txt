@@ -1,0 +1,15 @@
+fill() preencher , aceita 1 argumento.
+
+flip()
+
+get() acessar 
+
+add() - adicionar
+
+copy() - usar uma copia da lista...
+
+empty() - remove do grupo
+
+nova fase do projeto
+
+refatorar! limpar o codigo!
